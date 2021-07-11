@@ -1,4 +1,5 @@
-<img  src="/images/githublogo.png" width="100" >
+#  Welcome to my portfolio 
+![Melina Montes](/images/githublogo.png)
 
 <h1 align="center">Hi 👋, I'm Melina</h1>
 <h3 align="center">I'm a Jr Backend Developer</h3>
