@@ -1,3 +1,5 @@
+<img  src="/images/githublogo.png" width="100" >
+
 <h1 align="center">Hi 👋, I'm Melina</h1>
 <h3 align="center">I'm a Jr Backend Developer</h3>
 
