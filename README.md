@@ -1,7 +1,7 @@
-#  Welcome to my portfolio 
+
 ![Melina Montes](/images/githublogo.png)
 
-<h1 align="center">Hi 👋, I'm Melina</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">I'm a Jr Backend Developer</h3>
 
 - 🔭 I’m currently working on  **Api Rest**
