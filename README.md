@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MelinaMontes](https://github.com/MelinaMontes), [https://gitlab.com/MelinaMontes](https://gitlab.com/MelinaMontes)
 
-- 📫 How to reach me **montes.melina.a@gmail.com**
+- 📫 How to reach me **montes.melina.a@gmail.com**, **https://www.linkedin.com/in/melina-montes-a**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
