@@ -1,5 +1,4 @@
 
-![Melina Montes](/images/githublogo.png)
 
 <h1 align="center">Hey there!✨ </h1>
 <p align="left">
