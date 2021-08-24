@@ -17,6 +17,6 @@
 **My Repos**
 
 <a href="https://github.com/MelinaMontes/aladas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=aladas&langs_count=5&theme=tokionight">
-<a href="https://github.com/MelinaMontes/questionados"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=questionados&layout=compact&theme=tokionight">
-<a href="https://github.com/MelinaMontes/HarryPotter"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&card_height=300&&repo=HarryPotter&langs_count=5&layout=compact&theme=tokionight">
+<a href="https://github.com/MelinaMontes/questionados-api"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=questionados-api&layout=compact&theme=tokionight">
+<a href="https://github.com/MelinaMontes/TpHarryPotter"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&card_height=300&&repo=TpHarryPotter&langs_count=5&layout=compact&theme=tokionight">
   
