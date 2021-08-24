@@ -2,8 +2,6 @@
 ![Melina Montes](/images/githublogo.png)
 
 <h1 align="center">Hello! </h1>
-<h3 align="center">I'm a Jr Backend Developer</h3>
-
 <p align="left">
   <a href="https://github.com/MelinaMontes"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MelinaMontes&show_icons=true&theme=dracula">
   <a href="https://github.com/MelinaMontes"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelinaMontes&langs_count=10&layout=compact&theme=dracula">
@@ -11,8 +9,7 @@
 
 - 🔭 I’m currently working on  **Api Rest**
 
-- 🌱 I’m learning **Java, Spring Boot, Maven, JWT, **
-
+- 🌱 I’m learning **Java, Spring Boot, Maven, JWT**
 - 👨‍💻 All of my projects are available at [https://github.com/MelinaMontes](https://github.com/MelinaMontes), [https://gitlab.com/MelinaMontes](https://gitlab.com/MelinaMontes)
 
 
