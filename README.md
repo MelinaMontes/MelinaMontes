@@ -7,11 +7,11 @@
   <a href="https://github.com/MelinaMontes"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelinaMontes&langs_count=10&layout=compact&theme=dracula">
   </p>
 
-- ✨I’m currently working on  **Api Rest**
+✨I’m currently working on  **Api Rest**
 
-- ✨I’m currently learning **Java, Spring Boot, Maven, JWT, git and other cool stuff**
+✨I’m currently learning **Java, Spring Boot, Maven, JWT, git and other cool stuff**
     
-- ✨ All of my projects are available at [https://github.com/MelinaMontes](https://github.com/MelinaMontes), [https://gitlab.com/MelinaMontes](https://gitlab.com/MelinaMontes)
+✨ All of my projects are available at [https://github.com/MelinaMontes](https://github.com/MelinaMontes), [https://gitlab.com/MelinaMontes](https://gitlab.com/MelinaMontes)
 
 
 <h3 align="left">Languages and Tools:</h3>
