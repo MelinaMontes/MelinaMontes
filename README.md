@@ -16,7 +16,7 @@
 ## My repos
     
 <p align="left">
- <a href="https://github.com/MelinaMontes/aladas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=aladas_count=5&theme=tokionight">
+ <a href="https://github.com/MelinaMontes/aladas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=aladas&langs_count=5&theme=tokionight">
  <a href="https://github.com/MelinaMontes/questionados"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=questionados_count=5&layout=compact&theme=tokionight">
- <a href="https://github.com/tic-tac-toe"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&card_height=300&&Tic-tac-toe&langs_count=5&layout=compact&theme=tokionight">
+ <a href="https://github.com/Tic-tac-toe"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&card_height=300&&Tic-tac-toe&langs_count=5&layout=compact&theme=tokionight">
 </p>
