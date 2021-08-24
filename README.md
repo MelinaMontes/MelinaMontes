@@ -1,16 +1,16 @@
 
 ![Melina Montes](/images/githublogo.png)
 
-<h1 align="center">Hello! </h1>
+<h1 align="center">Hey there!✨ </h1>
 <p align="left">
   <a href="https://github.com/MelinaMontes"><img width="400" src="https://github-readme-stats.vercel.app/api?username=MelinaMontes&show_icons=true&theme=dracula">
   <a href="https://github.com/MelinaMontes"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelinaMontes&langs_count=10&layout=compact&theme=dracula">
   </p>
 
-- 🔭 I’m currently working on  **Api Rest**
+- ✨I’m currently working on  **Api Rest**
 
-- 🌱 I’m learning **Java, Spring Boot, Maven, JWT**
-- 👨‍💻 All of my projects are available at [https://github.com/MelinaMontes](https://github.com/MelinaMontes), [https://gitlab.com/MelinaMontes](https://gitlab.com/MelinaMontes)
+- ✨I’m currently learning **Java, Spring Boot, Maven, JWT, git and other cool stuff**
+- ✨ All of my projects are available at [https://github.com/MelinaMontes](https://github.com/MelinaMontes), [https://gitlab.com/MelinaMontes](https://gitlab.com/MelinaMontes)
 
 
 <h3 align="left">Languages and Tools:</h3>
