@@ -8,9 +8,9 @@
 
 ✨I’m currently working on  **Api Rest**
 
-✨I’m currently learning **Java, Spring Boot, Maven, JWT, git and other cool stuff**
+✨I’m currently learning **Java, Spring Boot, Maven, JWT, Docker & Kubernetes*
     
-✨I'm a bit of a Linux fan  
+✨I'm a bit of a Linux fan and a self-taught learner
     
 ✨ All of my projects are available at [https://github.com/MelinaMontes](https://github.com/MelinaMontes), [https://gitlab.com/MelinaMontes](https://gitlab.com/MelinaMontes)
 
