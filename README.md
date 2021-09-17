@@ -8,7 +8,7 @@
 
 ✨I’m currently working on  **Api Rest**
 
-✨I’m currently learning **Java, Spring Boot, Maven, JWT, MongoDB, Docker & Kubernetes*
+✨I’m currently learning **Java, Spring Boot, Maven, JWT, MongoDB, Docker & Kubernetes**
     
 ✨I'm a bit of a Linux fan and a self-taught learner
     
