@@ -5,9 +5,7 @@
 <h2 align="left">About me:  </h1>
 
 
-✨I’m currently developing  **REST Api**
-
-✨I’m working with **TypeScript and NestJS**
+✨I’m currently working with **JavaScript and NodeJS**
     
 ✨I'm a bit of a **Linux** fan and a self-taught learner
     
