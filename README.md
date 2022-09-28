@@ -5,7 +5,7 @@
 <h2 align="left">About me:  </h1>
 
 
-✨I’m currently working with **JavaScript and NodeJS**
+✨I’m currently working with **Java**
     
 ✨I'm a bit of a **Linux** fan and a self-taught learner
     
