@@ -21,12 +21,3 @@
   <a href="https://github.com/MelinaMontes "><img width="400" src="https://github-readme-stats.vercel.app/api?username=MelinaMontes&show_icons=true&theme=dracula">
   <a href="https://github.com/MelinaMontes"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelinaMontes&langs_count=10&layout=compact&theme=dracula">
   </p>
-      
-
-<h3 align="left">My Repos :</h3>
-      
-<p align="left">
-
-<a href="https://github.com/MelinaMontes/aladas"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=aladas&langs_count=5&theme=dracula">
-<a href="https://github.com/MelinaMontes/questionados-api"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=questionados-api&layout=compact&theme=dracula">
-<a href="https://github.com/MelinaMontes/noaa"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MelinaMontes&repo=noaa&langs_count=5&layout=compact&theme=dracula">
